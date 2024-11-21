@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/mobile_navigation"
+    app:startDestination="@+id/nav_galeria">
+
+    <fragment
+        android:id="@+id/nav_galeria"
+        android:name="com.galartt.ui.galeria.GaleriaFragment"
+        android:label="@string/menu_galeria"
+        tools:layout="@layout/fragment_galeria" >
+        <action
+            android:id="@+id/action_nav_galeria_to_addArteFragment"
+            app:destination="@id/addArteFragment" />
+        <action
+            android:id="@+id/action_nav_galeria_to_updateArteFragment"
+            app:destination="@id/updateArteFragment" />
+    </fragment>
+
+    <fragment
+        android:id="@+id/nav_gallery"
+        android:name="com.galartt.ui.gallery.GalleryFragment"
+        android:label="@string/menu_gallery"
+        tools:layout="@layout/fragment_gallery" />
+
+    <fragment
+        android:id="@+id/nav_slideshow"
+        android:name="com.galartt.ui.slideshow.SlideshowFragment"
+        android:label="@string/menu_slideshow"
+        tools:layout="@layout/fragment_slideshow" />
+    <fragment
+        android:id="@+id/addArteFragment"
+        android:name="com.galartt.ui.galeria.AddArteFragment"
+        android:label="@string/bt_agregar"
+        tools:layout="@layout/fragment_add_arte" >
+        <action
+            android:id="@+id/action_addArteFragment_to_nav_galeria"
+            app:destination="@id/nav_galeria" />
+    </fragment>
+    <fragment
+        android:id="@+id/updateArteFragment"
+        android:name="com.galartt.ui.galeria.UpdateArteFragment"
+        android:label="@string/bt_actualizar"
+        tools:layout="@layout/fragment_update_arte" >
+        <argument
+            android:name="arte"
+            app:argType="com.galartt.model.Galeria" />
+        <action
+            android:id="@+id/action_updateArteFragment_to_nav_galeria"
+            app:destination="@id/nav_galeria" />
+    </fragment>
+</navigation>

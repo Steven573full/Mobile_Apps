@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name" translatable="false">GallArt</string>
+
+    <string name="tv_correo">Email</string>
+    <string name="tv_clave">Password</string>
+    <string name="msg_fallo_registro">Registration error</string>
+    <string name="msg_fallo_login">Authentication Error</string>
+    <string name="title_activity_principal">Principal</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="menu_galeria">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Comunidad</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="msg_autor">Author</string>
+    <string name="msg_correo">Email (abc@abc.com)</string>
+    <string name="msg_telefono">Phone (9999–9999)</string>
+    <string name="msg_web">Website</string>
+    <string name="bt_agregar">Add</string>
+    <string name="bt_actualizar">Update</string>
+    <string name="lugarAdded">Added</string>
+    <string name="noData">Missing data</string>
+    <string name="delete">Delete</string>
+    <string name="seguroBorrar">Are you sure you want to delete?</string>
+    <string name="si">yes</string>
+    <string name="no">no</string>
+    <string name="msgEscucharAudio">Listen audio</string>
+    <string name="msg_imagen">Image</string>
+    <string name="graba_pausa">Start/Pause recording</string>
+    <string name="msg_enviar_correo">Send email</string>
+    <string name="msg_phone_call">Make phone call</string>
+    <string name="msg_whatsapp_send">Send Whatsapp message</string>
+    <string name="msg_web_view">Open website</string>
+    <string name="msg_map_view">Show on map</string>
+    <string name="tv_latitud_lb">Latitud</string>
+    <string name="tv_longitud_lb">Longitud</string>
+    <string name="tv_altura_lb">Height</string>
+    <string name="msg_saludos">Hello friends</string>
+    <string name="msg_mensaje_correo">I write this message to</string>
+    <string name="msg_datos">Misssing data</string>
+    <string name="error">Error</string>
+    <string name="msg_ver_mapa">See location</string>
+    <string name="tv_latitud1">Latitud</string>
+    <string name="tv_longitud1">Longitud</string>
+    <string name="tv_altura1">Altura</string>
+    <string name="todo">To be defined</string>
+    <string name="escuchaPlay">Listen to the recording</string>
+    <string name="delete_nota">Delete audio note</string>
+    <string name="play_nota">Listen to audio note</string>
+    <string name="rec_stop_nota">Start/Pause recording</string>
+    <string name="take_photo">Take foto</string>
+    <string name="rotate_l">Rotate left</string>
+    <string name="rotale_r">Rotate right</string>
+    <string name="msg_graba_audio">Record audio note</string>
+    <string name="msg_detener_audio">Audio note stopped</string>
+    <string name="msg_subiendo_audio">Uploading audio note</string>
+    <string name="msg_subiendo_imagen">Uploading image</string>
+    <string name="notAdded">Art not added</string>
+    <string name="arteAdded">Art added successfully</string>
+</resources>

@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "400573286602",
+    "project_id": "galartt",
+    "storage_bucket": "galartt.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:400573286602:android:e6ba60d29d0d026b7bcc33",
+        "android_client_info": {
+          "package_name": "com.galartt"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "400573286602-7d7u2g6jms5ku5hkd4eh5q91uopmcgbg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDpsrydmsVan9wMP-vXK8Q33xdMjPpRJko"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "400573286602-7d7u2g6jms5ku5hkd4eh5q91uopmcgbg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

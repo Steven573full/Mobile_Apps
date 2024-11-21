@@ -1,0 +1,66 @@
+<resources>
+    <string name="app_name" translatable="false">GallArt</string>
+    <string name="default_web_client_idr" translatable="false">400573286602-7d7u2g6jms5ku5hkd4eh5q91uopmcgbg.apps.googleusercontent.com</string>
+
+    <string name="tv_correo">Correo</string>
+    <string name="tv_clave">Contraseña</string>
+    <string name="msg_fallo_registro">Error registrando usuario</string>
+    <string name="msg_fallo_login">Error autenticando usuario</string>
+    <string name="title_activity_principal">Principal</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="menu_galeria">Inicio</string>
+    <string name="menu_gallery">Mapa</string>
+    <string name="menu_slideshow">Comunidad</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="msg_autor">Autor de la obra</string>
+    <string name="msg_correo">Correo del autor (abc@abc.com)</string>
+    <string name="msg_telefono">Teléfono del autor (9999–9999)</string>
+    <string name="msg_web">Sitio web</string>
+    <string name="bt_agregar">Agregar obra</string>
+    <string name="bt_actualizar">Actualizar obra</string>
+    <string name="lugarAdded">Obra Agregada</string>
+    <string name="noData">Faltan datos</string>
+    <string name="delete">Eliminar obra</string>
+    <string name="seguroBorrar">¿Está seguro de eliminar?</string>
+    <string name="si">si</string>
+    <string name="no">no</string>
+    <string name="msgEscucharAudio">Escuchar nota de audio</string>
+    <string name="msg_imagen">Imagen de la obra</string>
+    <string name="graba_pausa">Graba o pausa grabación</string>
+    <string name="msg_enviar_correo">Enviar correo electrónico</string>
+    <string name="msg_phone_call">Realizar llamada telefónica</string>
+    <string name="msg_whatsapp_send">Enviar mensaje WhatsApp</string>
+    <string name="msg_web_view">Abrir sitio Web</string>
+    <string name="msg_map_view">Ver obra en mapa</string>
+    <string name="tv_latitud_lb">Latitud</string>
+    <string name="tv_longitud_lb">Longitud</string>
+    <string name="tv_altura_lb">Altura</string>
+    <string name="msg_saludos">Saludos amigos</string>
+    <string name="msg_mensaje_correo">Le escribo este correo para</string>
+    <string name="msg_datos">Faltan datos</string>
+    <string name="error">Error</string>
+    <string name="msg_ver_mapa">Ver la ubicación</string>
+    <string name="tv_latitud1">Latitud</string>
+    <string name="tv_longitud1">Longitud</string>
+    <string name="tv_altura1">Altura</string>
+    <string name="todo">Por definir</string>
+    <string name="escuchaPlay">Escucha grabación</string>
+    <string name="delete_nota">Borra nota de audio</string>
+    <string name="play_nota">Escuchar nota de audio</string>
+    <string name="rec_stop_nota">Graba o detiene nota de audio</string>
+    <string name="take_photo">Toma foto</string>
+    <string name="rotate_l">Rota izquierda</string>
+    <string name="rotale_r">Rota a la derecha</string>
+    <string name="msg_graba_audio">Grabando nota de audio</string>
+    <string name="msg_detener_audio">Nota de audio detenida</string>
+    <string name="msg_subiendo_audio">Subiendo Nota Audio</string>
+    <string name="msg_subiendo_imagen">Subiendo imagen</string>
+    <string name="notAdded">Arte no agregada</string>
+    <string name="arteAdded">Arte agregada</string>
+    <string name="menu_comunidad">Comunidad</string>
+</resources>
